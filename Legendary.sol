@@ -3,9 +3,9 @@
 pragma solidity ^0.7.4;
 
 contract Legendary {
-    string public name = "Legendary Token";
-    string public symbol = "LGT";
-    uint256 public totalSupply = 1000000000000000000000000; // 1 million tokens
+    string public name = "Neom Token";
+    string public symbol = "NT";
+    uint256 public totalSupply = 10000000;
     uint8 public decimals = 18;
     
     /**
